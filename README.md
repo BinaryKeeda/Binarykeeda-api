@@ -1,4 +1,4 @@
-# Go Backend with MongoDB Atlas
+# Binary Keeda Api Server
 
 A **production-ready, modular Go backend** using **MongoDB Atlas**, clean architecture, environment-based configuration, and optional Docker support.
 
